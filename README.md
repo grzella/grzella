@@ -2,7 +2,8 @@
 
 🇵🇱 Engineering Manager based in Warsaw, Poland  
 🚁 FPV & cinematic drone pilot — EU certified for open & specific category operations across Europe  
-🤖 Using AI agents (Claude + n8n + Supabase + dozens of MCP servers) to automate my FPV drone side work — and apply what I learn to engineering leadership  
+🤖 Hands-on building with AI — custom agents, Claude skills, MCP servers (custom + external) and n8n + Supabase pipelines automating my FPV business and personal ops end-to-end  
+🧠 Nerding out on agentic systems, RAG & evals, and fine-tuning / self-hosted LLMs — then bringing it back to how I lead engineering  
 ✈️ Frequently found somewhere in Southern Europe with a drone in my bag  
 
 ---
